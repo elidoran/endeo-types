@@ -3,7 +3,7 @@
 [![Dependency Status](https://gemnasium.com/elidoran/endeo-types.png)](https://gemnasium.com/elidoran/endeo-types)
 [![npm version](https://badge.fury.io/js/%40endeo%2Ftypes.svg)](http://badge.fury.io/js/%40endeo%2F/types)
 
-Common types for values in @endeo/special objects.
+Common types for values in @endeo/specials objects.
 
 These are used when creating an "object spec" to encode a "special object" in a compressed format. They are specified as the 'type' in the `enhancers` object.
 
